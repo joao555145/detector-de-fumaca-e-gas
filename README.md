@@ -20,3 +20,4 @@ Materials: 1x Breadboard
            11x Jumpers
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sensor PIR de movimento simples de usar e montar, otimo para trabalho escolar e passatempo para aprender.
