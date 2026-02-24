@@ -8,7 +8,6 @@ Materiais: 1x Protoboard
            11x Jumpers
 
 
-OBSERVAÇÃO: O código no VS CODE está mostrando errado porém! colocado ele diretamente no ARDUINO IDE funciona perfeitamente.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 PROJECT: SMOKE/GAS DETECTOR
@@ -20,4 +19,4 @@ Materials: 1x Breadboard
            1x Buzzer 
            11x Jumpers
 
-NOTE: The code in VS CODE is showing incorrectly, however! When placed directly in the ARDUINO IDE, it works perfectly.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
